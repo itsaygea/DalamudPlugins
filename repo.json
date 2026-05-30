@@ -20,7 +20,7 @@
     "Punchline": "Whisper management with tell target dropdown and quick-reply.",
     "Description": "Personal fork of ChatTwo with quality-of-life improvements: tell target dropdown for easy whisper switching, cross-world aware target tracking, and performance optimizations. Based on Infiziert90/ChatTwo. Made by Aygea — twitch.tv/crazyaygea",
     "RepoUrl": "https://github.com/itsaygea/myChat2",
-    "AssemblyVersion": "1.40.2.1",
+    "AssemblyVersion": "1.40.2.2",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/itsaygea/myChat2/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/itsaygea/myChat2/releases/latest/download/latest.zip",
