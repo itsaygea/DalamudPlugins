@@ -16,7 +16,7 @@
   {
     "Author": "Aygea",
     "Name": "Aygea's Chat2",
-    "InternalName": "ChatTwo",
+    "InternalName": "AygeaChat2",
     "Punchline": "Whisper management with tell target dropdown and quick-reply.",
     "Description": "Personal fork of ChatTwo with quality-of-life improvements: tell target dropdown for easy whisper switching, cross-world aware target tracking, and performance optimizations. Based on Infiziert90/ChatTwo. Made by Aygea — twitch.tv/crazyaygea",
     "RepoUrl": "https://github.com/itsaygea/myChat2",
