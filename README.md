@@ -4,11 +4,17 @@ Custom plugin repository for [Final Fantasy XIV](https://www.finalfantasyxiv.com
 
 ## Available Plugins
 
+### Aygea's Chat2
+
+Personal fork of ChatTwo with whisper management improvements: tell target dropdown, cross-world aware tracking, and performance optimizations.
+
+**Author:** Aygea | **Source:** [myChat2](https://github.com/itsaygea/myChat2)
+
 ### Aygea's Market Insight
 
 Crafting profit tracker — compare craft cost vs market price, scan for profitable recipes, and build shopping lists with max-price guidance.
 
-**Author:** Aygea
+**Author:** Aygea | **Source:** [Aygeas-Market-Insight](https://github.com/itsaygea/Aygeas-Market-Insight)
 
 ## How to Install
 
