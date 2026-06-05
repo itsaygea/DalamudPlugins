@@ -6,7 +6,7 @@
     "Punchline": "See craft cost vs market price at a glance.",
     "Description": "Crafting profit tracker for FFXIV. Compares craft costs against market board prices in item tooltips, scans for the most profitable recipes to craft, and builds shopping lists with max-price guidance. Made by Aygea — twitch.tv/crazyaygea",
     "RepoUrl": "https://github.com/itsaygea/Aygeas-Market-Insight",
-    "AssemblyVersion": "1.0.3.17",
+    "AssemblyVersion": "1.0.3.18",
     "DalamudApiLevel": 15,
     "DownloadLinkInstall": "https://github.com/itsaygea/Aygeas-Market-Insight/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/itsaygea/Aygeas-Market-Insight/releases/latest/download/latest.zip",
